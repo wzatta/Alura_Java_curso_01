@@ -44,6 +44,7 @@ public class AdopetConsoleApplication {
                 }
             }
             System.out.println("Finalizando o programa...");
+            
         } catch (Exception e) {
             e.printStackTrace();
         }
